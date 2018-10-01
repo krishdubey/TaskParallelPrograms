@@ -1,0 +1,7 @@
+G:\c#.netPrograms\TaskParallelProgram\TaskParallelProgram\bin\Debug\TaskParallelProgram.exe.config
+G:\c#.netPrograms\TaskParallelProgram\TaskParallelProgram\bin\Debug\TaskParallelProgram.exe
+G:\c#.netPrograms\TaskParallelProgram\TaskParallelProgram\bin\Debug\TaskParallelProgram.pdb
+G:\c#.netPrograms\TaskParallelProgram\TaskParallelProgram\obj\Debug\TaskParallelProgram.csprojAssemblyReference.cache
+G:\c#.netPrograms\TaskParallelProgram\TaskParallelProgram\obj\Debug\TaskParallelProgram.csproj.CoreCompileInputs.cache
+G:\c#.netPrograms\TaskParallelProgram\TaskParallelProgram\obj\Debug\TaskParallelProgram.exe
+G:\c#.netPrograms\TaskParallelProgram\TaskParallelProgram\obj\Debug\TaskParallelProgram.pdb
